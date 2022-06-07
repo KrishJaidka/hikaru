@@ -1,4 +1,5 @@
-body {background-color:#DAEAF1;
+body {@import url('http://fonts.cdnfonts.com/css/gogles');
+                background-color:#DAEAF1;
     font-family: 'Gogles', sans-serif;
     font-size:17px;}
   hr {border-style:dotted none none;
